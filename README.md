@@ -18,7 +18,7 @@ This repository contains a collection of machine learning lab experiments perfor
 
 4. **Lab Assignment 4**
    Implementation of logistic regression; evaluation using accuracy, F1-score, and confusion matrix; library and manual approach.
-   **Date of Performance:** 26/02/2026
+   **Date of Performance:** 25/02/2026
 
 5. **Lab Assignment 5**
    Development of a multiple linear regression model using the given dataset.
@@ -39,5 +39,9 @@ This repository contains a collection of machine learning lab experiments perfor
 9. **Lab Assignment 9**
    Implementation of K-Means clustering on the given dataset.
    **Date of Performance:** 15/04/2026
+
+10. **Lab Assignment 10**
+    Implementation of bisecting K-means on the given dataset.
+    **Date of performance:** 22/04/2026
 
 
